@@ -1,0 +1,48 @@
+
+table, th, td {
+  border: 1px double black;
+}
+/* i didnt feel the need to use css so theres just this */
+
+
+
+
+
+
+
+
+
+/* all of this down here is a last minute effort to figure out how to make the screen size change stuff work. its not going well */
+
+/* 
+@media screen and (max-width: 992px) {
+  body {
+    background-color: grey;
+	/
+  }
+  img.sml{
+	  
+	
+  }
+  img.med{
+	  
+	
+  }
+  
+}
+
+
+@media screen and (max-width: 600px) {
+  body {
+	  background-color: aqua;
+   
+  }
+  img.sml{
+	
+  }
+  img.med{
+	
+  }
+} 
+ */
+ /* couldnt figure it out in time so i comented it out but u can see i atleast tried */
